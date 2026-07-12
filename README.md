@@ -114,15 +114,11 @@ python gui.py
 
 ### Main Interface
 
-> Add your chatbot screenshot here.
-
 ```
 screenshots/home.png
 ```
 
 ### Chat Conversation
-
-> Add a screenshot of a conversation here.
 
 ```
 screenshots/chat.png

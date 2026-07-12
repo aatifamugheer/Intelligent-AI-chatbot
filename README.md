@@ -114,15 +114,11 @@ python gui.py
 
 ### Main Interface
 
-```
-screenshots/home.png
-```
+![Main Interface](screenshots/home.png)
 
 ### Chat Conversation
 
-```
-screenshots/chat.png
-```
+![Chat Conversation](screenshots/chat.png)
 
 ---
 

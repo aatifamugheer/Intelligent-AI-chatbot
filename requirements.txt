@@ -1,0 +1,12 @@
+openai
+customtkinter
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyaudio
+requests
+beautifulsoup4
+wikipedia
+python-docx
+PyPDF2
+textblob
